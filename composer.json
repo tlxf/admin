@@ -3,8 +3,7 @@
   "type": "library",
   "license": "MIT",
   "require": {
-    "php": ">=7.4",
-    "tlxf/admin": "dev-master"
+    "php": ">=7.4"
   },
   "autoload": {
     "psr-4": {
