@@ -17,6 +17,6 @@ class Login
         $res = new Member();
         $d = $res->query()->where('id', 1)->first()->toArray();
         var_export($d);
-        return response('admin of tlxf...');
+        return response('admin of tlxf!!!');
     }
 }
