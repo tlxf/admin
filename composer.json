@@ -1,0 +1,12 @@
+{
+  "name": "tlxf/admin",
+  "type": "library",
+  "license": "MIT",
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {
+      "Tlxf\\Admin\\": "src"
+    }
+  }
+}
